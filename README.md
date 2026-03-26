@@ -4,8 +4,9 @@ Aqui estão os comandos que mais utilizei na aula de Terminal:
 
 - `cd`: Para navegar entre pastas.
 - `dir`: Para listar arquivos.
-- '
-- [Adicione aqui mais 3 comandos que você achou úteis]
+- 'cd ..': Para voltar a pasta 'pai'.
+- 'del arquivo.txt': Para deletar um arquivo.
+- 'cls': Limpar a tela.
 
 ## 📸 Evidência de Execução
 ![Foto do meu terminal](https://github.com/paularaphisa-boop/una-ihcux-lista01/blob/main/Lista01-Evidencia.png)
